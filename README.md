@@ -9,5 +9,5 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: To Thanh Hai
+* Student Name: TO THANH HAI
 * Student ID: 22BI13148
